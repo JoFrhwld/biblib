@@ -1,12 +1,12 @@
 from distutils.core import setup
 
 setup(
-    name='biblib',
+    name='biblib-simple',
     version='0.1.0',
     description='Simple, correct BibTeX parser and algorithms',
-    url='https://github.com/aclements/biblib',
+    url='https://github.com/colour-science/biblib',
     author='Austin Clements',
-    author_email='aclements@csail.mit.edu',
+    author_email='colour-science@googlegroups.com',
     packages=['biblib'],
     keywords=['bibtex', 'tex'],
     classifiers=[
