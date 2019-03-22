@@ -1,3 +1,9 @@
+# Biblib
+
+This repository was forked from [Austin Clements
+repository](https://github.com/aclements/biblib) to create
+a [PyPi package](https://pypi.org/project/biblib-simple/).
+
 Biblib provides a simple, standalone Python3 package for parsing
 BibTeX bibliographic databases, as well as algorithms for manipulating
 BibTeX entries in BibTeX-y ways.
