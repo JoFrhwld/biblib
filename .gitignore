@@ -1,6 +1,7 @@
 __pycache__/
 
 # Files created by setup.py
+biblib_simple.egg-info
 /build/
 /dist/
 MANIFEST
