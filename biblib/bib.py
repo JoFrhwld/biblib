@@ -46,7 +46,7 @@ class Parser:
         """
 
         self.__log, self.__errors = [], False
-        self.__entries = collections.OrderedDict()
+        self.__entries = OrderedDict()
 
         if month_style == 'full':
             self.__macros = {'jan': 'January',   'feb': 'February',
